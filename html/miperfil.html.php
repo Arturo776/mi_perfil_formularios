@@ -133,6 +133,10 @@
     <!-- Pie de página -->
     <footer class="fixed-bottom border-top d-flex align-items-center py-2">
       <p class="mb-0 px-5 border-end">Mi Perfil © 2021 Arturo B. Mart&iacute;n</p>
+      <a class="link-secondary px-5" target="_blank" href="https://getbootstrap.com/">Bootstrap</a>
+      <a class="link-secondary px-5" target="_blank" href="https://jquery.com/">JQuery</a>
+      <a class="link-secondary px-5" target="_blank" href="https://github.com/Arturo776/mi_perfil_formularios">Repositorio (GitHub)</a>
+      <a class="link-secondary px-5" target="_blank" href="https://fontawesome.com/">Font Awesome</a>
     </footer>
 
   </body>
